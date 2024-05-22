@@ -1,7 +1,5 @@
 # DeepLearning
 
-# DeepLearning
-
 This repository contains a collection of Jupyter notebooks and scripts designed to demonstrate various deep learning concepts and techniques. These materials are suitable for both beginners and intermediate learners who want to understand and apply deep learning algorithms using Python and popular libraries such as PyTorch and scikit-learn.
 
 ## Overview
